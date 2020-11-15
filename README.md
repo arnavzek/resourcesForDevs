@@ -16,7 +16,7 @@ Back | ❮
 # Mobile First media query
 
 ```
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 800px) {
   body {
     background-color: lightblue;
   }
