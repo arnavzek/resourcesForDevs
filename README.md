@@ -13,3 +13,13 @@ Back | ❮
  Math.random().toString(36).substring(2, 15)
 
 ```
+# Mobile First media query
+
+```
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+```
