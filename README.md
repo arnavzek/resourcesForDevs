@@ -24,5 +24,5 @@ Back | ❮
 
 ```
 
-# Convert readme to styled html
+# Convert readme to styled HTML
 https://dillinger.io/
