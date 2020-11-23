@@ -26,3 +26,11 @@ Back | ❮
 
 # Convert readme to styled HTML
 https://dillinger.io/
+
+# Make a library that be used both as a script tag and a node module
+
+```
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = U;
+}
+``
