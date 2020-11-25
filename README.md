@@ -34,3 +34,11 @@ if (typeof module !== "undefined" && module.exports) {
   module.exports = U;
 }
 ``
+
+# Check if a particular css property is supported in the browser
+
+```
+             @supports ((-webkit-backdrop-filter: blur(2em)) or (backdrop-filter: blur(2em))) {
+         
+              }
+```
