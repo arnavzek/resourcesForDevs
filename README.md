@@ -1,4 +1,4 @@
-# symbols For Devs
+## Symbols
 
 Name  | Second Header
 ------------- | -------------
@@ -8,13 +8,13 @@ Back | ❮
 Search | ⌕
 
 
-# Generate Random string in JS
+## Generate Random string in JS
 
 ```
  Math.random().toString(36).substring(2, 15)
 
 ```
-# Mobile First media query
+## Mobile First media query
 
 ```
 @media only screen and (min-width: 800px) {
@@ -31,15 +31,15 @@ https://dillinger.io/
 # Make a library that be used both as a script tag and a node module
 
 ```
-if (typeof module !== "undefined" && module.exports) {
-  module.exports = U;
-}
+   if (typeof module !== "undefined" && module.exports) {
+     module.exports = moduleName;
+   }
 ``
 
 # Check if a particular css property is supported in the browser
 
 ```
-             @supports ((-webkit-backdrop-filter: blur(2em)) or (backdrop-filter: blur(2em))) {
-         
-              }
+   @supports ((-webkit-backdrop-filter: blur(2em)) or (backdrop-filter: blur(2em))) {
+
+    }
 ```
