@@ -5,6 +5,7 @@ Name  | Second Header
 Close  | × ✗ ✘ ✕
 Correct  | ✓ ✔ 
 Back | ❮
+Search | ⌕
 
 
 # Generate Random string in JS
