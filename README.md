@@ -25,10 +25,21 @@ Search | ⌕
 
 ```
 
-# Convert readme to styled HTML
+## Beautiful Console log
+```
+  
+    console.log(
+      "%c" + data,
+      `color: Green; background-color: LightGreen; padding: 2px 5px; border-radius: 5px;`
+    ); //type of print: error, warning, greeting
+  
+
+```
+
+## Convert readme to styled HTML
 https://dillinger.io/
 
-# Make a library that be used both as a script tag and a node module
+## Make a library that be used both as a script tag and a node module
 
 ```
    if (typeof module !== "undefined" && module.exports) {
