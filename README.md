@@ -31,7 +31,7 @@ Search | ⌕
     console.log(
       "%c" + data,
       `color: Green; background-color: LightGreen; padding: 2px 5px; border-radius: 5px;`
-    ); //type of print: error, warning, greeting
+    );
   
 
 ```
