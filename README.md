@@ -7,6 +7,9 @@ Correct  | ✓ ✔
 Back | ❮
 Search | ⌕
 
+## SVG generator 
+
+https://www.softr.io/tools/svg-shape-generator
 
 ## Generate Random string in JS
 
